@@ -1,0 +1,32 @@
+[
+    {
+        "id_tes": "2",
+        "positif": 1,
+        "negatif": 1
+    },
+    {
+        "id_tes": "6",
+        "positif": 0,
+        "negatif": 1
+    },
+    {
+        "id_tes": "1",
+        "positif": 1,
+        "negatif": 2
+    },
+    {
+        "id_tes": "5",
+        "positif": 2,
+        "negatif": 0
+    },
+    {
+        "id_tes": "3",
+        "positif": 0,
+        "negatif": 2
+    },
+    {
+        "id_tes": "4",
+        "positif": 0,
+        "negatif": 2
+    }
+]
